@@ -1,6 +1,6 @@
 1.cari ttg PYTHON Python 
 
-jawab:python adalah salah satu bahasa pemrograman yang dapat melakukan eksekusi sejumlah instruksi multi guna secara langsung (interpretatif) dengan metode orientasi objek. Python adalah bahasa pemrograman yang paling mudah dipahami
+jawab:python adalah salah satu bahasa pemrograman yang dapat melakukan eksekusi sejumlah instruksi multi guna secara langsung (interpretatif) dengan metode orientasi objek. Python adalah bahasa pemrograman yang paling mudah dipahami.
 
 2.apa itu Pemrograman Language, dan sebutkan contoh 
 
